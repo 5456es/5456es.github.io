@@ -30,7 +30,8 @@ I am generally interested in Natural Language Processing, and Large Language Mod
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- 
 
 # 📝 Publications 
 
@@ -52,13 +53,11 @@ I am generally interested in Natural Language Processing, and Large Language Mod
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎲 Experience 
+## 📖 Educations
+- *2021.08 - 2025.07*, Pursuing a B.S. degree in Computer Science at SJTU, IEEE Honor Class.
+- *2024.08 - now*, Engaged in the research-focused NGNE program at NUS, expected to continue until May 2025.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+## 💻 Others
+- *2022.07 - 2024.07*, Research Intern@[X_LANCE](https://x-lance.github.io/) , SJTU. supervised by Prof. Lu Chen and Prof. Kai Yu.
+- *2024.07 - 2024.09*, Research Assistant@[X_LANG Lab](https://www.xlang.ai/), HKU. supervised by Prof. Tao Yu. , China.
