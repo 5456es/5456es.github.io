@@ -16,11 +16,20 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+## Me
+I am Zhennan Shen, currently doing AI research at John-AI Lab (2024 – Now) mentored by Prof. Michael Shieh in NUS as an exchange student.
 
-Hi! Thanks for your valuable time to visit my site. I am a SJTU fourth GRade CS student, and currently in NUS for a research based programme (NGNE). I am applying for phd programme in 2025 fall.
+Previously, I spent three years at Shanghai Jiao Tong University, under the supervise of Prof. Lu Chen and Prof. Kai Yu, major in computer science. I will obtain my B.S. degree in IEEE honor class at SJTU in 2025 summer. Also I’ve interned in XLang Lab@HKUNLP(2024 summer) under the supervice of Prof. Tao Yu.
 
-My research interest includes deep learning and LLM(Efficiency, Safety and Agents) I have joined several intersting and solid work in X_LANCE and X_LANG
-( <a href='https://scholar.google.com/citations?user=JPwg5MwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+## Research interest
+
+I am generally interested in Natural Language Processing, and Large Language Model. Recently, I am specifically interested in:
+* Agentic Language Models and Applications
+* Safety, Interpretability, and Editing Methods for LLMs
+
+
+include deep learning and large language models (Efficiency, Safety, and Agents). I have joined several interesting and solid projects at [X_LANCE](https://x-lance.github.io/) and [X_LANG]([your-link-to-XLANG](https://www.xlang.ai/)) 
+(<a href='https://scholar.google.com/citations?user=JPwg5MwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
