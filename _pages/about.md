@@ -50,14 +50,16 @@ I am generally interested in Natural Language Processing, and Large Language Mod
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Selected for the Zhiyuan Honors Program with Zhiyuan Honors Scholarship (CNY 5,000 per year) in 2021, 2022, and 2023.
+- Awarded the University-Level B Grade Scholarship (CNY 1,000) in 2023.
+- Awarded the University-Level C Grade Scholarship (CNY 500) in 2022.
 
 # 🎲 Experience 
-## 📖 Educations
+##  Educations
 - *2021.08 - 2025.07*, Pursuing a B.S. degree in Computer Science at SJTU, IEEE Honor Class.
 - *2024.08 - now*, Engaged in the research-focused NGNE program at NUS, expected to continue until May 2025.
 
-## 💻 Others
+##  Others
 - *2022.07 - 2024.07*, Research Intern@[X_LANCE](https://x-lance.github.io/) , SJTU. supervised by Prof. Lu Chen and Prof. Kai Yu.
 - *2024.07 - 2024.09*, Research Assistant@[X_LANG Lab](https://www.xlang.ai/), HKU. supervised by Prof. Tao Yu. , China.
+- *2024.09 - now* Research Intern@[John-AI Lab], NUS. supervised by Prof. Michael Shieh, Singapore.
