@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shen Zhennan"
-description              : "I am a fourth-year student at SJTU, majoring in IEEE-CS, and currently in a research-based exchange program (NGNE) at NUS. "
+description              : "Undergraduate at SJTU, majoring in IEEE-CS; currently participating in the research-focused NGNE exchange program at NUS."
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Shen zhennan"
+  name             : "Zhennan Shen"
   avatar           : "images/Zhennan Shen-512x512.png"
   bio              : "SJTU"
   location         : "Singapore, Singapore"
