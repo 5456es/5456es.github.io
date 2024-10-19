@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shen Zhennan"
-description              : "I am a fourth-year student at SJTU, majoring in IEEE-CS, and currently participating in a research-based exchange program (NGNE) at NUS. My research interests focus on Efficient LLMs, the safety of LLMs, and LLM agents."
+description              : "I am a fourth-year student at SJTU, majoring in IEEE-CS, and currently in a research-based exchange program (NGNE) at NUS. "
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shen zhennan"
   avatar           : "images/Zhennan Shen-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "SJTU"
   location         : "Singapore, Singapore"
   employer         :
   pubmed           : 
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "Zhennan Shen"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
