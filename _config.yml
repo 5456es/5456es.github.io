@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Shen Zhennan"
-description              : "Undergraduate at SJTU, majoring in IEEE-CS; currently participating in the research-focused NGNE exchange program at NUS."
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Zhennan Shen"
+description              : ""
+repository               : "5456es/5456es.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,21 +23,21 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhennan Shen"
   avatar           : "images/Zhennan Shen-512x512.png"
-  bio              : "SJTU"
-  location         : "Singapore, Singapore"
-  employer         :
+  bio              : "Agentic RL researcher in Moonshot AI@Kimi (Focused on Computer-Use-Agent) \n & 26Fall CS PhD applicant."
+  location         : "Beijing, China"
+  employer         : "Moonshot AI (Kimi)"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=JPwg5MwAAAAJ"
-  email            : "1641225799szn@mail.com"
+  email            : "1641225799szn@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://5456es.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "5456es"
   google_plus      :
   keybase          :
   instagram        :
