@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About
-I am Zhennan Shen, a B.E. candidate in Computer Science and Engineering at Shanghai Jiao Tong University (GPA: 3.9/4.3; Outstanding Graduate; Zhiyuan Honors Program, Class of 2025). My research focuses on **language-model agents** and **agentic reinforcement learning** (Especially on computer-use-agent). 
+I am Zhennan Shen. I received my B.E. in Computer Science and Technology from Shanghai Jiao Tong University in 2025 (Outstanding Graduate; Zhiyuan Honors Program). My research focuses on **language-model agents** and **agentic reinforcement learning** (Especially on computer-use-agent). 
 
 I have worked closely with [Prof. Tao Yu](https://taoyds.github.io/) at [HKU NLP](https://hkunlp.github.io/) and with [Prof. Lu Chen](https://coai-sjtu.github.io/) and [Prof. Kai Yu](https://x-lance.github.io/kaiyu/) at the [X-LANCE Lab](https://x-lance.github.io/). I currently work on RL and SFT initiatives at  <span style="font-size: 1.1em; font-weight: bold;">**[Moonshot AI](https://www.moonshot.ai/) ([Kimi](https://www.kimi.com/en/))**</span>, supporting large-scale agent training pipelines. 
 
