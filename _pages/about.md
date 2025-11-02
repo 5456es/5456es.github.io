@@ -17,14 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About
-I am Zhennan Shen, a B.E. candidate in Computer Science and Engineering at Shanghai Jiao Tong University (Zhiyuan Honors Program, Class of 2025). My research focuses on **language-model agents** and **agentic reinforcement learning** (Especially on computer-use-agent). I have worked closely with [Prof. Tao Yu](https://taoyds.github.io/) at [HKU NLP](https://hkunlp.github.io/) and with [Prof. Lu Chen](https://coai-sjtu.github.io/) and [Prof. Kai Yu](https://x-lance.github.io/kaiyu/) at the [X-LANCE Lab](https://x-lance.github.io/). I currently work on RL and SFT initiatives at [Moonshot AI](https://www.moonshot.ai/) ([Kimi](https://www.kimi.com/en/)), supporting large-scale agent training pipelines. 
+I am Zhennan Shen, a B.E. candidate in Computer Science and Engineering at Shanghai Jiao Tong University (GPA: 3.9/4.3; Outstanding Graduate; Zhiyuan Honors Program, Class of 2025). My research focuses on **language-model agents** and **agentic reinforcement learning** (Especially on computer-use-agent). 
 
-- GPA: 3.9/4.3; Outstanding Graduate and Zhiyuan Honors Scholarship recipient.
-- Research directions: large language models, agentic reinforcement learning, robust LLM evaluation.
-- Collaborations with [Moonshot AI](https://www.moonshot.ai/), [HKU NLP Group](https://hkunlp.github.io/), and [SJTU X-LANCE Lab](https://x-lance.github.io/).
-- <span style="font-size: 1.2em; font-weight: bold; color: red">I am actively seeking PhD opportunities starting in Fall 2026; if you are interested in my work, please feel free to contact me.</span>
+I have worked closely with [Prof. Tao Yu](https://taoyds.github.io/) at [HKU NLP](https://hkunlp.github.io/) and with [Prof. Lu Chen](https://coai-sjtu.github.io/) and [Prof. Kai Yu](https://x-lance.github.io/kaiyu/) at the [X-LANCE Lab](https://x-lance.github.io/). I currently work on RL and SFT initiatives at  <span style="font-size: 1.1em; font-weight: bold;">**[Moonshot AI](https://www.moonshot.ai/) ([Kimi](https://www.kimi.com/en/))**</span>, supporting large-scale agent training pipelines. 
 
-**Contact:** 1641225799szn@gmail.com · [Google Scholar](https://scholar.google.com/citations?user=JPwg5MwAAAAJ) · [LinkedIn](https://www.linkedin.com/in/zhennan-shen-188a632b6) · [Resume]({{ "/ZhennanShen_Resume.pdf" | relative_url }})
+ <span style="font-size: 1.2em; font-weight: bold; color: red">I am actively seeking PhD opportunities starting in Fall 2026; if you are interested in my work, please feel free to contact me.</span>
+
+**Contact:** 1641225799szn@gmail.com or ieee-szn@sjtu.edu.cn · [Google Scholar](https://scholar.google.com/citations?user=JPwg5MwAAAAJ) · [LinkedIn](https://www.linkedin.com/in/zhennan-shen-188a632b6) · [Resume]({{ "/ZhennanShen_Resume.pdf" | relative_url }})
 
 <span class='anchor' id='research-interests'></span>
 # Research Interests
